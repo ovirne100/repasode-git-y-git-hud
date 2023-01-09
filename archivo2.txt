@@ -1,3 +1,8 @@
 hola luz
+<<<<<<< HEAD
 si
 tardes
+=======
+hola
+dias
+>>>>>>> main
