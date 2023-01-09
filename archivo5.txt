@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 bamos que si podemos
+=======
+bamos que si podemos
+bamos
+>>>>>>> master
