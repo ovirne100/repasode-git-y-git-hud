@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nunca te rindas
+=======
+Dios es bueno
+>>>>>>> master
